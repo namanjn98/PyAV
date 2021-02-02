@@ -1,5 +1,5 @@
 LDFLAGS ?= ""
-CFLAGS ?= "-00"
+CFLAGS ?= "-O0"
 
 PYAV_PYTHON ?= python3
 PYTHON := $(PYAV_PYTHON)

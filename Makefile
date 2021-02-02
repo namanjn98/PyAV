@@ -1,7 +1,7 @@
 LDFLAGS ?= ""
-CFLAGS ?= "-O0"
+CFLAGS ?= "-00"
 
-PYAV_PYTHON ?= python
+PYAV_PYTHON ?= python3
 PYTHON := $(PYAV_PYTHON)
 
 
